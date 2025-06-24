@@ -1,1 +1,2 @@
 # agile-skills-portfolio
+I am a certified Product Owner (PSPO1) and CSM Scrum Master, specializing in Agile methodologies and Six Sigma. With a Master's degree in Physics, Electronics, and Communication, I have substantial experience in Agile software development, managing product backlogs, and project planning. My focus on stakeholder engagement and understanding client needs ensures successful project outcomes.
