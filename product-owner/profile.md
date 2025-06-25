@@ -35,6 +35,6 @@
 
 ## Contact
 
-- **Email**: [your-ravi_acharya2010@yahoo.com](mailto:ravi_acharya2010@yahoo.com)
+- **Email**: [ravi_acharya2010@yahoo.com](mailto:ravi_acharya2010@yahoo.com)
 - **LinkedIn**: [linkedin.com/in/ravi-acharya](https://www.linkedin.com/in/ravi-acharya/)
 - **GitHub**: [github.com/ravee-acharya](https://github.com/ravee-acharya)
