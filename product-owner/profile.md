@@ -1,5 +1,5 @@
 
-# Product Owner | Agile Project Management
+# Product Owner | Agile Product Development (Financial Clearing System / FinTech)
 
 ## Experience Summary
 
