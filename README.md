@@ -1,7 +1,7 @@
 # agile-skills-portfolio
 # Hi, I’m Ravi Acharya 👋
 
-### 🚀 SCRUM Master & Product Owner at Nextgen Clearing Limited
+### 🚀 Senior SCRUM Master & Project Manager at DASH Technologies Inc.
 
 > **Empowering Teams. Delivering Value. Driving Continuous Improvement.**
 
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate SCRUM Master and Product Owner with a proven track record at Nextgen Clearing Limited. My expertise lies in facilitating agile teams, refining product backlogs, streamlining release management, and leading SCRUM ceremonies to deliver value-driven products.
+I’m a passionate Senior SCRUM Master & Project Manager with a proven track record at DASH Technologies Inc. My expertise lies in facilitating agile teams, refining product backlogs, streamlining release management, and leading SCRUM ceremonies to deliver value-driven products.
 
 - 🔹 **Top Skills:**  
   - **Project Management** : SCRUM Framework (Product Backlog, Sprint Backlog, Daily Sprints, Sprint Review, Sprint Retrospective) and Technical Project Management using Confluence and Jira, Smartsheet, Axosoft. 
